@@ -3,10 +3,10 @@
 > A premium jokes generator built with React + Vite + JokeAPI.  
 > Fetch hilarious one-liner jokes by category. Fast, fun, and fully responsive!
 
-![GitHub](https://img.shields.io/github/license/a2rp/jokesterx?style=flat-square)
+<!-- ![GitHub](https://img.shields.io/github/license/a2rp/jokesterx?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/a2rp/jokesterx?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/a2rp/jokesterx?style=flat-square)
-![Deployed](https://img.shields.io/github/deployments/a2rp/jokesterx/github-pages?label=Live)
+![Deployed](https://img.shields.io/github/deployments/a2rp/jokesterx/github-pages?label=Live) -->
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 📸 Screenshots
 
-| Category Select                                                  | Joke Output                                                      |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![select](https://github.com/a2rp/jokesterx/assets/preview1.png) | ![output](https://github.com/a2rp/jokesterx/assets/preview2.png) |
+| Category Select                                                      | Joke Output                                                          |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![select](https://github.com/a2rp/jokesterx/src/assets/preview1.png) | ![output](https://github.com/a2rp/jokesterx/src/assets/preview2.png) |
 
 ---
 
