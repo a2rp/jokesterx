@@ -70,8 +70,8 @@ const JokesGenerator = () => {
                     </div>
                     <div className="listMain">
                         <h2>🔗 API Used: JokeAPI v2</h2>
-                        <h2>🔗 GitHub Link: </h2>
-                        <h2>🔗 Live Link: </h2>
+                        <h2>🔗 GitHub Link: <a href="https://github.com/a2rp/jokesterx" target="_blank">github.com/a2rp/jokesterx</a></h2>
+                        <h2>🔗 Live Link: <a href="https://a2rp.github.io/jokesterx" target="_blank">a2rp.github.io/jokesterx</a></h2>
                     </div>
                 </div>
 
