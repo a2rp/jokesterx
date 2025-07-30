@@ -19,9 +19,9 @@
 
 ## 📸 Screenshots
 
-| Category Select                                                      | Joke Output                                                          |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![select](https://github.com/a2rp/jokesterx/src/assets/preview1.png) | ![output](https://github.com/a2rp/jokesterx/src/assets/preview2.png) |
+| Category Select                                                                | Joke Output                                                                    |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| ![select](https://github.com/a2rp/jokesterx/blob/main/src/assets/preview1.png) | ![output](https://github.com/a2rp/jokesterx/blob/main/src/assets/preview2.png) |
 
 ---
 
